@@ -63,9 +63,35 @@ function Experience() {
         <div class="row">
             <div class="col-md-6">
             <h4 class="display-6">Programming Langauge</h4>
+            <p>SQL</p>
+            <p>PHP</p>
+            <p>JavaScript</p>
+            <p>C#</p>
+            <p>Python</p>
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>Java</p>
+            <p>C++</p>
+            <p>NodeJS</p>
+            <p>NoSQL</p>
+            <p>Go</p>
+            <p>TypeScript</p>
             </div>
             <div class="col-md-6">
             <h4 class="display-6">Software & Framework</h4>
+            <p>Laravel</p>
+            <p>FastAPI</p>
+            <p>ReactJS</p>
+            <p>VueJS</p>
+            <p>Bootstrap</p>
+            <p>ZendFramework(Laminus Project)</p>
+            <p>Unity</p>
+            <p>Azure</p>
+            <p>Flutter</p>
+            <p>ReactNative</p>
+            <p>FastAPI</p>
+            <p>DJango</p>
+            <p>Dart</p>
             </div>
         </div>
     </div>);

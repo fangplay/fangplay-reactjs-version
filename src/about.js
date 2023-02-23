@@ -16,7 +16,7 @@ function About() {
             <p>"나는 혼자이지만 항상 혼자가 아닙니다."</p>
           </div>
           <div class='col-md-5'>
-            <img src={ require('./img/profile-2023.jpg') } alt='Circle Image' class='rounded-circle'/>
+            <img src={ require('./img/profile-2023.jpg') } style={{ width: 500, height: 500 }} alt='Circle Image' class='rounded-circle'/>
           </div>
         </div>
         <div class='row'>
