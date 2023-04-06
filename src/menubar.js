@@ -38,6 +38,9 @@ function MenuBar() {
                   <CNavLink href="/experience">Experience</CNavLink>
                 </CNavItem>
                 <CNavItem>
+                  <CNavLink href="/gallery">Gallery</CNavLink>
+                </CNavItem>
+                <CNavItem>
                   <CNavLink href="/game-list">Game List</CNavLink>
                 </CNavItem>
                 <CDropdown variant="nav-item" popper={false}>
